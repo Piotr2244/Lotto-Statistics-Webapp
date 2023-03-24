@@ -1,0 +1,11 @@
+com\mycompany\lottostatisticswebapp\resources\JakartaEE8Resource.class
+pl\polsl\Servlets\AdminPanelServlet.class
+pl\polsl\Servlets\GetDataFromDatabaseServlet.class
+pl\polsl\Servlets\ShowRandomSetsServlet.class
+pl\polsl\model\SingleNumber.class
+pl\polsl\Servlets\LastWinningNumbersServlet.class
+pl\polsl\model\LottoBase.class
+pl\polsl\model\LottoBaseException.class
+pl\polsl\Servlets\ShowAllNumbersServlet.class
+pl\polsl\Servlets\ShowFrequencyServlet.class
+com\mycompany\lottostatisticswebapp\JakartaRestConfiguration.class

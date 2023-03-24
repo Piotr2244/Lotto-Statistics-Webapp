@@ -1,0 +1,76 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/pbeni/.m2/repository/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar;C:/Users/pbeni/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar;C:/Users/pbeni/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar;C:/Users/pbeni/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/pbeni/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar;C:/Users/pbeni/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar;C:/Users/pbeni/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LottoStatisticsWebApp-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'LottoStatisticsWebApp-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.lottostatisticswebapp
+com.mycompany.lottostatisticswebapp.resources
+pl.polsl.model
+pl.polsl.Servlets
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/com/mycompany/lottostatisticswebapp/JakartaRestConfiguration.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/com/mycompany/lottostatisticswebapp/resources/JakartaEE8Resource.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/model/LottoBase.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/model/LottoBaseException.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/model/package-info.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/model/SingleNumber.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/Servlets/AdminPanelServlet.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/Servlets/GetDataFromDatabaseServlet.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/Servlets/LastWinningNumbersServlet.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/Servlets/NewPasswordServlet.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/Servlets/ShowAllNumbersServlet.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/Servlets/ShowFrequencyServlet.java'
+'C:/Users/pbeni/Documents/NetBeansProjects/LottoStatisticsWebApp/src/main/java/pl/polsl/Servlets/ShowRandomSetsServlet.java'
+C:\Users\pbeni\.m2\repository\jakarta\platform\jakarta.jakartaee-api\8.0.0\jakarta.jakartaee-api-8.0.0.jar = 1670678567587
+C:\Users\pbeni\.m2\repository\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar = 1665990820793
+C:\Users\pbeni\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar = 1668418116551
+C:\Users\pbeni\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar = 1668418116537
+C:\Users\pbeni\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar = 1668418116850
+C:\Users\pbeni\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar = 1668418117409
+C:\Users\pbeni\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar = 1668418117569
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java = 1670794390122
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\allclasses-index.html = 1672918398772
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\allclasses.html = 1672918398787
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\allpackages-index.html = 1672918398776
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\constant-values.html = 1672918398624
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\deprecated-list.html = 1672918398783
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\element-list = 1672918398574
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\help-doc.html = 1672918398801
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\index-all.html = 1672918398763
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\index.html = 1672918398793
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\javadoc.bat = 1672918308354
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\member-search-index.js = 1672918398758
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\member-search-index.zip = 1672918398760
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\overview-summary.html = 1672918398796
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\overview-tree.html = 1672918398709
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\package-search-index.js = 1672918398742
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\package-search-index.zip = 1672918398753
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\script.js = 1672918398809
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\search.js = 1672918398812
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\serialized-form.html = 1672918398633
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\stylesheet.css = 1672918398806
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\type-search-index.js = 1672918398755
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\target\site\apidocs\type-search-index.zip = 1672918398757

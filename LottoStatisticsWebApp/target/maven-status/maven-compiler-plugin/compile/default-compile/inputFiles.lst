@@ -1,0 +1,12 @@
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\pl\polsl\model\package-info.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\pl\polsl\model\LottoBase.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\pl\polsl\Servlets\AdminPanelServlet.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\pl\polsl\model\SingleNumber.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\com\mycompany\lottostatisticswebapp\JakartaRestConfiguration.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\pl\polsl\Servlets\GetDataFromDatabaseServlet.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\com\mycompany\lottostatisticswebapp\resources\JakartaEE8Resource.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\pl\polsl\Servlets\LastWinningNumbersServlet.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\pl\polsl\Servlets\ShowAllNumbersServlet.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\pl\polsl\Servlets\ShowFrequencyServlet.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\pl\polsl\model\LottoBaseException.java
+C:\Users\pbeni\Documents\NetBeansProjects\LottoStatisticsWebApp\src\main\java\pl\polsl\Servlets\ShowRandomSetsServlet.java

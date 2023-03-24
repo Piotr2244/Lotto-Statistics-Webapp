@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h1>Lotto Statistics</h1>
+        <form action="getFromFile" method="get">
+            <p>Type database name:<input type=text size=20 name=dataFile ></p>
+            <input type="submit" value="Get data from file" />
+        </form>   
+        <form action="showRandomData" method="get">
+             <p>How many random sets do You want to generate?<input type=text size=20 name=amount ></p>
+            <input type="submit" value="Generate and show all numbers" />
+        </form>
+        <hr>
+         <form action="showFrequency">
+            <input type="submit" value="Show frequency and percents" />
+        </form>
+         <form action="showLastWinningNumbers">
+            <input type="submit" value="Show last winning numbers" />
+        </form>
+         <form action="showAllNumbers">
+            <input type="submit" value="Show all numbers" />
+        </form>
+        <hr>
+         <form action="adminLogin" method="get">
+             <p>Password for admin:<input type=text size=20 name=password ></p>
+            <input type="submit" value="Verify" />
+        </form>
+         <form action="newPassword" method="get">
+             <p>Create new password:<input type=text size=20 name=newPassword ></p>
+            <input type="submit" value="Confirm" />
+        </form>
+    </body>
+</html>
